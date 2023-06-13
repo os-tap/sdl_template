@@ -1,0 +1,14 @@
+# Target labels
+ sdl3-populate
+# Source files and their labels
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test.rule
+/Users/apostol/Code/SDL/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update.rule
